@@ -1,0 +1,12 @@
+C:\Users\nunes\source\repos\Pong\Pong\bin\Debug\Pong.exe.config
+C:\Users\nunes\source\repos\Pong\Pong\bin\Debug\Pong.exe
+C:\Users\nunes\source\repos\Pong\Pong\bin\Debug\Pong.pdb
+C:\Users\nunes\source\repos\Pong\Pong\bin\Debug\OpenTK.dll
+C:\Users\nunes\source\repos\Pong\Pong\bin\Debug\OpenTK.pdb
+C:\Users\nunes\source\repos\Pong\Pong\bin\Debug\OpenTK.xml
+C:\Users\nunes\source\repos\Pong\Pong\obj\Debug\Pong.csproj.AssemblyReference.cache
+C:\Users\nunes\source\repos\Pong\Pong\obj\Debug\Pong.csproj.SuggestedBindingRedirects.cache
+C:\Users\nunes\source\repos\Pong\Pong\obj\Debug\Pong.csproj.CoreCompileInputs.cache
+C:\Users\nunes\source\repos\Pong\Pong\obj\Debug\Pong.csproj.CopyComplete
+C:\Users\nunes\source\repos\Pong\Pong\obj\Debug\Pong.exe
+C:\Users\nunes\source\repos\Pong\Pong\obj\Debug\Pong.pdb
